@@ -14,10 +14,12 @@ Automated deployment of an Nginx web server on AWS EC2 using Bash scripting and 
 | Git/GitHub | Version control |
 
 ## Project Structure
+```bash
 nginx-aws-webserver/
 
-├── setup.sh       # Automation script
-└── README.md      # Project documentation
+├── setup.sh       # Automation script/
+└── README.md      # Project documentation/
+```
 
 ## What This Project Does
 1. Launches an AWS EC2 free-tier instance in Mumbai
