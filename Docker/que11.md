@@ -1,4 +1,4 @@
-# 11.Create an image from the above running container and push it into DockerHub as a public image.
+# 11.Create an image from the running container and push it into DockerHub as a public image.
 For this question you have to make sure You have a login id on DokerHub
 
 Or you can [create](https://hub.docker.com) one
