@@ -1,9 +1,9 @@
-# Nginx Web Server Deployment on AWS EC2
+# ☄️Nginx Web Server Deployment on AWS EC2
 
-## Project Overview
+## 🧐Project Overview
 Automated deployment of an Nginx web server on AWS EC2 using Bash scripting and Linux system administration skills.
 
-## Tech Stack
+## 👩‍🎓Tech Stack
 | Tool | Purpose |
 |------|---------|
 | AWS EC2 | Cloud server (ap-south-1 Mumbai, free tier) |
@@ -13,7 +13,7 @@ Automated deployment of an Nginx web server on AWS EC2 using Bash scripting and 
 | SSH | Secure remote access |
 | Git/GitHub | Version control |
 
-## Project Structure
+## 🏯Project Structure
 nginx-aws-webserver/
 
 ├── setup.sh       # Automation script
