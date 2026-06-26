@@ -23,7 +23,7 @@ This repo contains hands-on projects and notes from my DevOps learning journey, 
 - Writing Ansible Playbooks
 - Automating server setups
 
-### 📊 Prometheus *(added by collaborator)*
+### 📊 Prometheus 
 - Monitoring and metrics setup
 - Basic alert rules and Grafana integration *(optional)*
 
