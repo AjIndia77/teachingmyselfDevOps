@@ -1,4 +1,4 @@
-# 7.How will you configure the docker client separately from the docker host/server?
+# 6.How will you configure the docker client separately from the docker host/server?
 ```sh
 sudo nano /lib/systemd/system/docker.service
 ```
