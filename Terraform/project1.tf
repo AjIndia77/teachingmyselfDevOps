@@ -1,5 +1,7 @@
-
-TERRAFORM ACTUAL MAIN.TF FILE
+#-----------------------------------------------------
+#AWS VPC Infrastructure Automation using Terraform
+#TERRAFORM ACTUAL MAIN.TF FILE
+#------------------------------------------------------
 #PROVIDER
 provider "aws" {
   region     = "ap-south-1"
